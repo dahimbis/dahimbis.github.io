@@ -84,6 +84,7 @@ I love working with students through STEM outreach programs. Nothing beats the m
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahimbisibwe-dan-14150819a/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:da3658@nyu.edu)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dahimbis)
 --
 
 ### 👀 Visitor Count
